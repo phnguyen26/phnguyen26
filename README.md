@@ -11,8 +11,8 @@
 
 | Category | Technologies |
 |----------|-------------|
-| **Languages** | <img height="40" src="https://skillicons.dev/icons?i=python,java,cpp"/> |
-| **Web Development** | <img height="40" src="https://skillicons.dev/icons?i=spring,flask,mysql,postgres"/> |
+| **Languages** | <img height="40" src="https://skillicons.dev/icons?i=python,java,cpp,js"/> |
+| **Web Development** | <img height="40" src="https://skillicons.dev/icons?i=spring,flask,fastapi,mysql,postgres,mongodb"/> |
 | **ML / DL** | <img height="40" src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn"/> |
 | **Tools** | <img height="40" src="https://skillicons.dev/icons?i=git,docker,aws,linux,postman"/> |
 
