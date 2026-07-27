@@ -1,10 +1,6 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" 
-          srcset="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=40&duration=2000&pause=500&color=FFFFFF&multiline=true&repeat=false&width=1300&height=140&lines=3rd-year+Student+at+PTIT;Passionate+about+AI%2C+Cloud%2C+and+DevOps">
-  <source media="(prefers-color-scheme: light)" 
-          srcset="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=40&duration=2000&pause=500&color=000000&multiline=true&repeat=false&width=1300&height=140&lines=3rd-year+Student+at+PTIT;Passionate+about+AI%2C+Cloud%2C+and+DevOps">
-  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=40&duration=2000&pause=500&color=FFFFFF&multiline=true&repeat=false&width=1300&height=140&lines=3rd-year+Student+at+PTIT;Passionate+about+AI%2C+Cloud%2C+and+DevOps">
-</picture>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&size=15&duration=1000&color=5B8FF7&background=24273A00&multiline=true&repeat=false&width=435&height=180&lines=phnguyen26%40host+~+%25+whoami;Nguyen+Phi+Hung;phnguyen26%40host+~+%25+echo+%24EDU;Computer+Science%2C+PTIT;phnguyen26%40host+~+%25+echo+%24SKILLS;Python%2C+Bash%2C+Docker%2C+EC2%2C+Sagemaker;phnguyen26%40host+~+%25+echo+%24GOAL;AI+Engineer" alt="Typing SVG" /></a>>
+
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=phnguyen26&label=Profile%20views&color=0e75b6&style=flat" alt="phnguyen26" /> 
@@ -33,18 +29,8 @@
     <img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </p>
----
 
-### 🛠 Skills & Technologies
 
-| Category | Technologies |
-|----------|-------------|
-| **Languages** | <img height="40" src="https://skillicons.dev/icons?i=python,java,cpp,js"/> |
-| **Web Development** | <img height="40" src="https://skillicons.dev/icons?i=spring,flask,fastapi,mysql,postgres,mongodb"/> |
-| **ML / DL** | <img height="40" src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn"/> |
-| **Tools** | <img height="40" src="https://skillicons.dev/icons?i=git,docker,aws,linux,postman"/> |
-
----
 
 ### Coding Challenges
 
